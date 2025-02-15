@@ -500,7 +500,7 @@ function App() {
                 <img src={Logo2} alt="Logo" className="w-[14rem] h-16" />
                 </a>
             </div>
-            <div className="bg-gray-800 p-4 shadow-md rounded-lg w-40 h-20 flex items-center justify-center
+            <div className="bg-gray-800 p-4 shadow-md rounded-lg w-50 h-20 flex items-center justify-center
                             transform hover:scale-105 transition">
                 <a href="https://www.sk.ru/" target="_blank" rel="noreferrer" className="text-gray-100 font-semibold text-center">
                 <img src={Logo3} alt="Logo" className="w-[14rem] h-16" />
